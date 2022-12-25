@@ -55,9 +55,6 @@ cmake-build-*/
 # File-based project format
 *.iws
 
-# IntelliJ
-out/
-
 # mpeltonen/sbt-idea plugin
 .idea_modules/
 
@@ -84,3 +81,5 @@ fabric.properties
 
 # VsCode/Node
 /client-plugin/delta/node_modules/
+/client-plugin/delta/.vscode-test/
+out/
