@@ -1,8 +1,17 @@
 {
-  "name": "delta",
-  "displayName": "delta-ads",
-  "description": "A delta-ads language extension",
+  "name": "delta-ads",
+  "displayName": "Delta-Ads",
+  "description": "A delta-Ads language extension.",
   "version": "0.0.1",
+  "publisher": "Bjarne Herrmann",
+  "author": {
+    "name": "Bjarne Herrmann",
+    "email": "herrmann.bjarne@outlook.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Facemirrored/delta-ads-language-server"
+  },
   "engines": {
     "vscode": "^1.74.0"
   },
